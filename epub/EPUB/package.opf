@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="3.0" xml:lang="en" unique-identifier="pub-id" prefix="cc: http://creativecommons.org/ns# rendition: http://www.idpf.org/vocab/rendition/# kotobee: https://www.kotobee.com/vocab# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" xmlns="http://www.idpf.org/2007/opf">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+        <dc:title id="title">Take Up 5</dc:title>
+
+        <dc:identifier id="pub-id">urn:uuid:9aa1faa3-fa01-865f-5d69-5f012e12737b</dc:identifier>
+        <meta name="cover" content="img0" />
+
+        <dc:creator>Rosa María Quesada Mejía</dc:creator>
+        <dc:publisher>Claudia Elizabeth García Becerril</dc:publisher>
+        <dc:rights>Majestic Education, S.A. de C.V.</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:description>No description available</dc:description>
+        <meta property="dcterms:modified">2020-07-27T13:31:56Z</meta>
+        <meta property="rendition:layout">reflowable</meta>
+        <meta property="rendition:orientation">auto</meta>
+        <meta property="ibooks:interactive">true</meta>
+        <meta property="ibooks:specified-fonts">false</meta>
+        <meta property="kotobee:version">1.6.5</meta>
+        <meta property="kotobee:build">1003</meta>
+
+    </metadata>
+    <manifest>
+        <item id="html0" href="xhtml/pdff31uh/page1/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/raw/shv969.xhtml" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/pdf90jez/page1/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/pdf90jez/page2/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/pdf90jez/page3/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/pdf90jez/page4/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/pdf90jez/page5/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/pdf90jez/page6/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/pdf90jez/page7/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html9" href="xhtml/pdf90jez/page8/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html10" href="xhtml/pdf90jez/page9/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html11" href="xhtml/pdf90jez/page10/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html12" href="xhtml/pdf90jez/page11/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html13" href="xhtml/pdf90jez/page12/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html14" href="xhtml/pdf90jez/page13/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html15" href="xhtml/pdf90jez/page14/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html16" href="xhtml/pdf90jez/page15/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html17" href="xhtml/pdf90jez/page16/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html18" href="xhtml/pdf90jez/page17/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html19" href="xhtml/pdf90jez/page18/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html20" href="xhtml/pdf90jez/page19/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html21" href="xhtml/pdf90jez/page20/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html22" href="xhtml/pdf90jez/page21/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html23" href="xhtml/pdf90jez/page22/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html24" href="xhtml/pdf90jez/page23/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html25" href="xhtml/pdf90jez/page24/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html26" href="xhtml/pdf90jez/page25/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html27" href="xhtml/pdf90jez/page26/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html28" href="xhtml/pdf90jez/page27/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html29" href="xhtml/pdf90jez/page28/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html30" href="xhtml/pdf90jez/page29/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html31" href="xhtml/pdf90jez/page30/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html32" href="xhtml/pdf90jez/page31/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html33" href="xhtml/pdf90jez/page32/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html34" href="xhtml/pdf90jez/page33/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html35" href="xhtml/pdf90jez/page34/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html36" href="xhtml/pdf90jez/page35/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html37" href="xhtml/pdf90jez/page36/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html38" href="xhtml/pdf90jez/page37/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html39" href="xhtml/pdf90jez/page38/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html40" href="xhtml/pdf90jez/page39/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html41" href="xhtml/pdf90jez/page40/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html42" href="xhtml/pdf90jez/page41/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html43" href="xhtml/pdf90jez/page42/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html44" href="xhtml/pdf90jez/page43/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html45" href="xhtml/pdf90jez/page44/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html46" href="xhtml/pdf90jez/page45/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html47" href="xhtml/pdf90jez/page46/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html48" href="xhtml/pdf90jez/page47/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html49" href="xhtml/pdf90jez/page48/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html50" href="xhtml/pdf90jez/page49/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html51" href="xhtml/pdf90jez/page50/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html52" href="xhtml/pdf90jez/page51/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html53" href="xhtml/pdf90jez/page52/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html54" href="xhtml/pdf90jez/page53/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html55" href="xhtml/pdf90jez/page54/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html56" href="xhtml/pdf90jez/page55/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html57" href="xhtml/pdf90jez/page56/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html58" href="xhtml/pdf90jez/page57/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html59" href="xhtml/pdf90jez/page58/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html60" href="xhtml/pdf90jez/page59/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html61" href="xhtml/pdf90jez/page60/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html62" href="xhtml/pdf90jez/page61/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html63" href="xhtml/pdf90jez/page62/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html64" href="xhtml/pdf90jez/page63/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html65" href="xhtml/pdf90jez/page64/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html66" href="xhtml/pdf90jez/page65/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html67" href="xhtml/pdf90jez/page66/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html68" href="xhtml/pdf90jez/page67/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html69" href="xhtml/pdf90jez/page68/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html70" href="xhtml/pdf90jez/page69/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html71" href="xhtml/pdf90jez/page70/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html72" href="xhtml/pdf90jez/page71/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html73" href="xhtml/pdf90jez/page72/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html74" href="xhtml/pdf90jez/page73/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html75" href="xhtml/pdf90jez/page74/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html76" href="xhtml/pdf90jez/page75/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html77" href="xhtml/pdf90jez/page76/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html78" href="xhtml/pdf90jez/page77/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html79" href="xhtml/pdf90jez/page78/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html80" href="xhtml/pdf90jez/page79/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html81" href="xhtml/pdf90jez/page80/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html82" href="xhtml/pdf90jez/page81/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html83" href="xhtml/pdf90jez/page82/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html84" href="xhtml/pdf90jez/page83/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html85" href="xhtml/pdf90jez/page84/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html86" href="xhtml/pdf90jez/page85/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html87" href="xhtml/pdf90jez/page86/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html88" href="xhtml/pdf90jez/page87/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html89" href="xhtml/pdf90jez/page88/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html90" href="xhtml/pdf90jez/page89/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html91" href="xhtml/pdf90jez/page90/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html92" href="xhtml/pdf90jez/page91/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html93" href="xhtml/pdf90jez/page92/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html94" href="xhtml/pdf90jez/page93/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html95" href="xhtml/pdf90jez/page94/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html96" href="xhtml/pdf90jez/page95/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html97" href="xhtml/pdf90jez/page96/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="html98" href="xhtml/pdf7cup1/page1/page.xhtml" media-type="application/xhtml+xml"/>
+<item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
+<item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
+<item id="img0" href="imgs/usersleonardogonzale.jpg" properties="cover-image" media-type="image/jpeg"/>
+
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="html0" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html1" properties="rendition:layout-reflowable"/>
+<itemref idref="html2" properties="rendition:layout-reflowable"/>
+<itemref idref="html3" properties="rendition:layout-reflowable"/>
+<itemref idref="html4" properties="rendition:layout-reflowable"/>
+<itemref idref="html5" properties="rendition:layout-reflowable"/>
+<itemref idref="html6" properties="rendition:layout-reflowable"/>
+<itemref idref="html7" properties="rendition:layout-reflowable"/>
+<itemref idref="html8" properties="rendition:layout-reflowable"/>
+<itemref idref="html9" properties="rendition:layout-reflowable"/>
+<itemref idref="html10" properties="rendition:layout-reflowable"/>
+<itemref idref="html11" properties="rendition:layout-reflowable"/>
+<itemref idref="html12" properties="rendition:layout-reflowable"/>
+<itemref idref="html13" properties="rendition:layout-reflowable"/>
+<itemref idref="html14" properties="rendition:layout-reflowable"/>
+<itemref idref="html15" properties="rendition:layout-reflowable"/>
+<itemref idref="html16" properties="rendition:layout-reflowable"/>
+<itemref idref="html17" properties="rendition:layout-reflowable"/>
+<itemref idref="html18" properties="rendition:layout-reflowable"/>
+<itemref idref="html19" properties="rendition:layout-reflowable"/>
+<itemref idref="html20" properties="rendition:layout-reflowable"/>
+<itemref idref="html21" properties="rendition:layout-reflowable"/>
+<itemref idref="html22" properties="rendition:layout-reflowable"/>
+<itemref idref="html23" properties="rendition:layout-reflowable"/>
+<itemref idref="html24" properties="rendition:layout-reflowable"/>
+<itemref idref="html25" properties="rendition:layout-reflowable"/>
+<itemref idref="html26" properties="rendition:layout-reflowable"/>
+<itemref idref="html27" properties="rendition:layout-reflowable"/>
+<itemref idref="html28" properties="rendition:layout-reflowable"/>
+<itemref idref="html29" properties="rendition:layout-reflowable"/>
+<itemref idref="html30" properties="rendition:layout-reflowable"/>
+<itemref idref="html31" properties="rendition:layout-reflowable"/>
+<itemref idref="html32" properties="rendition:layout-reflowable"/>
+<itemref idref="html33" properties="rendition:layout-reflowable"/>
+<itemref idref="html34" properties="rendition:layout-reflowable"/>
+<itemref idref="html35" properties="rendition:layout-reflowable"/>
+<itemref idref="html36" properties="rendition:layout-reflowable"/>
+<itemref idref="html37" properties="rendition:layout-reflowable"/>
+<itemref idref="html38" properties="rendition:layout-reflowable"/>
+<itemref idref="html39" properties="rendition:layout-reflowable"/>
+<itemref idref="html40" properties="rendition:layout-reflowable"/>
+<itemref idref="html41" properties="rendition:layout-reflowable"/>
+<itemref idref="html42" properties="rendition:layout-reflowable"/>
+<itemref idref="html43" properties="rendition:layout-reflowable"/>
+<itemref idref="html44" properties="rendition:layout-reflowable"/>
+<itemref idref="html45" properties="rendition:layout-reflowable"/>
+<itemref idref="html46" properties="rendition:layout-reflowable"/>
+<itemref idref="html47" properties="rendition:layout-reflowable"/>
+<itemref idref="html48" properties="rendition:layout-reflowable"/>
+<itemref idref="html49" properties="rendition:layout-reflowable"/>
+<itemref idref="html50" properties="rendition:layout-reflowable"/>
+<itemref idref="html51" properties="rendition:layout-reflowable"/>
+<itemref idref="html52" properties="rendition:layout-reflowable"/>
+<itemref idref="html53" properties="rendition:layout-reflowable"/>
+<itemref idref="html54" properties="rendition:layout-reflowable"/>
+<itemref idref="html55" properties="rendition:layout-reflowable"/>
+<itemref idref="html56" properties="rendition:layout-reflowable"/>
+<itemref idref="html57" properties="rendition:layout-reflowable"/>
+<itemref idref="html58" properties="rendition:layout-reflowable"/>
+<itemref idref="html59" properties="rendition:layout-reflowable"/>
+<itemref idref="html60" properties="rendition:layout-reflowable"/>
+<itemref idref="html61" properties="rendition:layout-reflowable"/>
+<itemref idref="html62" properties="rendition:layout-reflowable"/>
+<itemref idref="html63" properties="rendition:layout-reflowable"/>
+<itemref idref="html64" properties="rendition:layout-reflowable"/>
+<itemref idref="html65" properties="rendition:layout-reflowable"/>
+<itemref idref="html66" properties="rendition:layout-reflowable"/>
+<itemref idref="html67" properties="rendition:layout-reflowable"/>
+<itemref idref="html68" properties="rendition:layout-reflowable"/>
+<itemref idref="html69" properties="rendition:layout-reflowable"/>
+<itemref idref="html70" properties="rendition:layout-reflowable"/>
+<itemref idref="html71" properties="rendition:layout-reflowable"/>
+<itemref idref="html72" properties="rendition:layout-reflowable"/>
+<itemref idref="html73" properties="rendition:layout-reflowable"/>
+<itemref idref="html74" properties="rendition:layout-reflowable"/>
+<itemref idref="html75" properties="rendition:layout-reflowable"/>
+<itemref idref="html76" properties="rendition:layout-reflowable"/>
+<itemref idref="html77" properties="rendition:layout-reflowable"/>
+<itemref idref="html78" properties="rendition:layout-reflowable"/>
+<itemref idref="html79" properties="rendition:layout-reflowable"/>
+<itemref idref="html80" properties="rendition:layout-reflowable"/>
+<itemref idref="html81" properties="rendition:layout-reflowable"/>
+<itemref idref="html82" properties="rendition:layout-reflowable"/>
+<itemref idref="html83" properties="rendition:layout-reflowable"/>
+<itemref idref="html84" properties="rendition:layout-reflowable"/>
+<itemref idref="html85" properties="rendition:layout-reflowable"/>
+<itemref idref="html86" properties="rendition:layout-reflowable"/>
+<itemref idref="html87" properties="rendition:layout-reflowable"/>
+<itemref idref="html88" properties="rendition:layout-reflowable"/>
+<itemref idref="html89" properties="rendition:layout-reflowable"/>
+<itemref idref="html90" properties="rendition:layout-reflowable"/>
+<itemref idref="html91" properties="rendition:layout-reflowable"/>
+<itemref idref="html92" properties="rendition:layout-reflowable"/>
+<itemref idref="html93" properties="rendition:layout-reflowable"/>
+<itemref idref="html94" properties="rendition:layout-reflowable"/>
+<itemref idref="html95" properties="rendition:layout-reflowable"/>
+<itemref idref="html96" properties="rendition:layout-reflowable"/>
+<itemref idref="html97" properties="rendition:layout-reflowable"/>
+<itemref idref="html98" properties="rendition:layout-reflowable"/>
+
+    </spine>
+
+    
+    
+</package>
