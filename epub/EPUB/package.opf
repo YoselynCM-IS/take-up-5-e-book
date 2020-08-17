@@ -5,14 +5,14 @@
         <dc:title id="title">Take Up 5</dc:title>
 
         <dc:identifier id="pub-id">urn:uuid:9aa1faa3-fa01-865f-5d69-5f012e12737b</dc:identifier>
-        <meta name="cover" content="img0" />
+        <meta name="cover" content="img535" />
 
         <dc:creator>Rosa María Quesada Mejía</dc:creator>
         <dc:publisher>Claudia Elizabeth García Becerril</dc:publisher>
         <dc:rights>Majestic Education, S.A. de C.V.</dc:rights>
         <dc:language>en</dc:language>
         <dc:description>No description available</dc:description>
-        <meta property="dcterms:modified">2020-07-27T13:31:56Z</meta>
+        <meta property="dcterms:modified">2020-08-17T17:29:22Z</meta>
         <meta property="rendition:layout">reflowable</meta>
         <meta property="rendition:orientation">auto</meta>
         <meta property="ibooks:interactive">true</meta>
@@ -22,210 +22,947 @@
 
     </metadata>
     <manifest>
-        <item id="html0" href="xhtml/pdff31uh/page1/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html1" href="xhtml/raw/shv969.xhtml" media-type="application/xhtml+xml"/>
-<item id="html2" href="xhtml/pdf90jez/page1/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html3" href="xhtml/pdf90jez/page2/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html4" href="xhtml/pdf90jez/page3/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html5" href="xhtml/pdf90jez/page4/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html6" href="xhtml/pdf90jez/page5/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html7" href="xhtml/pdf90jez/page6/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html8" href="xhtml/pdf90jez/page7/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html9" href="xhtml/pdf90jez/page8/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html10" href="xhtml/pdf90jez/page9/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html11" href="xhtml/pdf90jez/page10/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html12" href="xhtml/pdf90jez/page11/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html13" href="xhtml/pdf90jez/page12/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html14" href="xhtml/pdf90jez/page13/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html15" href="xhtml/pdf90jez/page14/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html16" href="xhtml/pdf90jez/page15/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html17" href="xhtml/pdf90jez/page16/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html18" href="xhtml/pdf90jez/page17/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html19" href="xhtml/pdf90jez/page18/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html20" href="xhtml/pdf90jez/page19/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html21" href="xhtml/pdf90jez/page20/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html22" href="xhtml/pdf90jez/page21/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html23" href="xhtml/pdf90jez/page22/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html24" href="xhtml/pdf90jez/page23/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html25" href="xhtml/pdf90jez/page24/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html26" href="xhtml/pdf90jez/page25/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html27" href="xhtml/pdf90jez/page26/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html28" href="xhtml/pdf90jez/page27/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html29" href="xhtml/pdf90jez/page28/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html30" href="xhtml/pdf90jez/page29/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html31" href="xhtml/pdf90jez/page30/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html32" href="xhtml/pdf90jez/page31/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html33" href="xhtml/pdf90jez/page32/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html34" href="xhtml/pdf90jez/page33/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html35" href="xhtml/pdf90jez/page34/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html36" href="xhtml/pdf90jez/page35/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html37" href="xhtml/pdf90jez/page36/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html38" href="xhtml/pdf90jez/page37/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html39" href="xhtml/pdf90jez/page38/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html40" href="xhtml/pdf90jez/page39/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html41" href="xhtml/pdf90jez/page40/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html42" href="xhtml/pdf90jez/page41/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html43" href="xhtml/pdf90jez/page42/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html44" href="xhtml/pdf90jez/page43/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html45" href="xhtml/pdf90jez/page44/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html46" href="xhtml/pdf90jez/page45/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html47" href="xhtml/pdf90jez/page46/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html48" href="xhtml/pdf90jez/page47/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html49" href="xhtml/pdf90jez/page48/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html50" href="xhtml/pdf90jez/page49/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html51" href="xhtml/pdf90jez/page50/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html52" href="xhtml/pdf90jez/page51/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html53" href="xhtml/pdf90jez/page52/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html54" href="xhtml/pdf90jez/page53/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html55" href="xhtml/pdf90jez/page54/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html56" href="xhtml/pdf90jez/page55/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html57" href="xhtml/pdf90jez/page56/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html58" href="xhtml/pdf90jez/page57/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html59" href="xhtml/pdf90jez/page58/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html60" href="xhtml/pdf90jez/page59/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html61" href="xhtml/pdf90jez/page60/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html62" href="xhtml/pdf90jez/page61/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html63" href="xhtml/pdf90jez/page62/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html64" href="xhtml/pdf90jez/page63/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html65" href="xhtml/pdf90jez/page64/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html66" href="xhtml/pdf90jez/page65/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html67" href="xhtml/pdf90jez/page66/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html68" href="xhtml/pdf90jez/page67/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html69" href="xhtml/pdf90jez/page68/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html70" href="xhtml/pdf90jez/page69/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html71" href="xhtml/pdf90jez/page70/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html72" href="xhtml/pdf90jez/page71/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html73" href="xhtml/pdf90jez/page72/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html74" href="xhtml/pdf90jez/page73/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html75" href="xhtml/pdf90jez/page74/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html76" href="xhtml/pdf90jez/page75/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html77" href="xhtml/pdf90jez/page76/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html78" href="xhtml/pdf90jez/page77/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html79" href="xhtml/pdf90jez/page78/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html80" href="xhtml/pdf90jez/page79/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html81" href="xhtml/pdf90jez/page80/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html82" href="xhtml/pdf90jez/page81/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html83" href="xhtml/pdf90jez/page82/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html84" href="xhtml/pdf90jez/page83/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html85" href="xhtml/pdf90jez/page84/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html86" href="xhtml/pdf90jez/page85/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html87" href="xhtml/pdf90jez/page86/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html88" href="xhtml/pdf90jez/page87/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html89" href="xhtml/pdf90jez/page88/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html90" href="xhtml/pdf90jez/page89/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html91" href="xhtml/pdf90jez/page90/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html92" href="xhtml/pdf90jez/page91/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html93" href="xhtml/pdf90jez/page92/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html94" href="xhtml/pdf90jez/page93/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html95" href="xhtml/pdf90jez/page94/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html96" href="xhtml/pdf90jez/page95/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html97" href="xhtml/pdf90jez/page96/page.xhtml" media-type="application/xhtml+xml"/>
-<item id="html98" href="xhtml/pdf7cup1/page1/page.xhtml" media-type="application/xhtml+xml"/>
+        <item id="html0" href="xhtml/pdff31uh/page1/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html1" href="xhtml/raw/shv969.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html2" href="xhtml/pdf90jez/page1/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html3" href="xhtml/pdf90jez/page2/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html4" href="xhtml/pdf90jez/page3/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html5" href="xhtml/pdf90jez/page4/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html6" href="xhtml/pdf90jez/page5/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html7" href="xhtml/pdf90jez/page6/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html8" href="xhtml/pdf90jez/page7/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html9" href="xhtml/pdf90jez/page8/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html10" href="xhtml/pdf90jez/page9/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html11" href="xhtml/pdf90jez/page10/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html12" href="xhtml/pdf90jez/page11/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html13" href="xhtml/pdf90jez/page12/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html14" href="xhtml/pdf90jez/page13/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html15" href="xhtml/pdf90jez/page14/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html16" href="xhtml/pdf90jez/page15/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html17" href="xhtml/pdf90jez/page16/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html18" href="xhtml/pdf90jez/page17/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html19" href="xhtml/pdf90jez/page18/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html20" href="xhtml/pdf90jez/page19/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html21" href="xhtml/pdf90jez/page20/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html22" href="xhtml/pdf90jez/page21/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html23" href="xhtml/pdf90jez/page22/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html24" href="xhtml/pdf90jez/page23/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html25" href="xhtml/pdf90jez/page24/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html26" href="xhtml/pdf90jez/page25/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html27" href="xhtml/pdf90jez/page26/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html28" href="xhtml/pdf90jez/page27/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html29" href="xhtml/pdf90jez/page28/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html30" href="xhtml/pdf90jez/page29/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html31" href="xhtml/pdf90jez/page30/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html32" href="xhtml/pdf90jez/page31/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html33" href="xhtml/pdf90jez/page32/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html34" href="xhtml/pdf90jez/page33/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html35" href="xhtml/pdf90jez/page34/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html36" href="xhtml/pdf90jez/page35/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html37" href="xhtml/pdf90jez/page36/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html38" href="xhtml/pdf90jez/page37/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html39" href="xhtml/pdf90jez/page38/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html40" href="xhtml/pdf90jez/page39/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html41" href="xhtml/pdf90jez/page40/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html42" href="xhtml/pdf90jez/page41/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html43" href="xhtml/pdf90jez/page42/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html44" href="xhtml/pdf90jez/page43/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html45" href="xhtml/pdf90jez/page44/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html46" href="xhtml/pdf90jez/page45/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html47" href="xhtml/pdf90jez/page46/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html48" href="xhtml/pdf90jez/page47/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html49" href="xhtml/pdf90jez/page48/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html50" href="xhtml/pdf90jez/page49/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html51" href="xhtml/pdf90jez/page50/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html52" href="xhtml/pdf90jez/page51/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html53" href="xhtml/pdf90jez/page52/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html54" href="xhtml/pdf90jez/page53/page.xhtml" properties="scripted remote-resources" media-type="application/xhtml+xml"/>
+<item id="html55" href="xhtml/pdf90jez/page54/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html56" href="xhtml/pdf90jez/page55/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html57" href="xhtml/pdf90jez/page56/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html58" href="xhtml/pdf90jez/page57/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html59" href="xhtml/pdf90jez/page58/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html60" href="xhtml/pdf90jez/page59/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html61" href="xhtml/pdf90jez/page60/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html62" href="xhtml/pdf90jez/page61/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html63" href="xhtml/pdf90jez/page62/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html64" href="xhtml/pdf90jez/page63/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html65" href="xhtml/pdf90jez/page64/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html66" href="xhtml/pdf90jez/page65/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html67" href="xhtml/pdf90jez/page66/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html68" href="xhtml/pdf90jez/page67/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html69" href="xhtml/pdf90jez/page68/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html70" href="xhtml/pdf90jez/page69/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html71" href="xhtml/pdf90jez/page70/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html72" href="xhtml/pdf90jez/page71/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html73" href="xhtml/pdf90jez/page72/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html74" href="xhtml/pdf90jez/page73/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html75" href="xhtml/pdf90jez/page74/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html76" href="xhtml/pdf90jez/page75/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html77" href="xhtml/pdf90jez/page76/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html78" href="xhtml/pdf90jez/page77/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html79" href="xhtml/pdf90jez/page78/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html80" href="xhtml/pdf90jez/page79/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html81" href="xhtml/pdf90jez/page80/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html82" href="xhtml/pdf90jez/page81/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html83" href="xhtml/pdf90jez/page82/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html84" href="xhtml/pdf90jez/page83/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html85" href="xhtml/pdf90jez/page84/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html86" href="xhtml/pdf90jez/page85/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html87" href="xhtml/pdf90jez/page86/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html88" href="xhtml/pdf90jez/page87/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html89" href="xhtml/pdf90jez/page88/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html90" href="xhtml/pdf90jez/page89/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html91" href="xhtml/pdf90jez/page90/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html92" href="xhtml/pdf90jez/page91/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html93" href="xhtml/pdf90jez/page92/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html94" href="xhtml/pdf90jez/page93/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html95" href="xhtml/pdf90jez/page94/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html96" href="xhtml/pdf90jez/page95/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html97" href="xhtml/pdf90jez/page96/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
+<item id="html98" href="xhtml/pdf7cup1/page1/page.xhtml" properties="scripted" media-type="application/xhtml+xml"/>
 <item id="contents" href="xhtml/raw/contents.xhtml"  properties="nav" media-type="application/xhtml+xml"/>
 <item id="ncx" href="xhtml/raw/contents.ncx"  media-type="application/x-dtbncx+xml"/>
-<item id="img0" href="imgs/usersleonardogonzale.jpg" properties="cover-image" media-type="image/jpeg"/>
+<item id="img0" href="imgs/answer.jpg" media-type="image/jpeg"/>
+<item id="img1" href="imgs/answer.png" media-type="image/png"/>
+<item id="img2" href="imgs/answer01.jpg" media-type="image/jpeg"/>
+<item id="img3" href="imgs/answer01.png" media-type="image/png"/>
+<item id="img4" href="imgs/answer02.jpg" media-type="image/jpeg"/>
+<item id="img5" href="imgs/answer02.png" media-type="image/png"/>
+<item id="img6" href="imgs/answer03.png" media-type="image/png"/>
+<item id="img7" href="imgs/answer04.png" media-type="image/png"/>
+<item id="img8" href="imgs/answer05.png" media-type="image/png"/>
+<item id="img9" href="imgs/answer06.png" media-type="image/png"/>
+<item id="img10" href="imgs/answer07.png" media-type="image/png"/>
+<item id="img11" href="imgs/answer08.png" media-type="image/png"/>
+<item id="img12" href="imgs/answer09.png" media-type="image/png"/>
+<item id="img13" href="imgs/answer10.png" media-type="image/png"/>
+<item id="img14" href="imgs/answer11.png" media-type="image/png"/>
+<item id="img15" href="imgs/answer12.png" media-type="image/png"/>
+<item id="img16" href="imgs/answer13.png" media-type="image/png"/>
+<item id="img17" href="imgs/answer14.png" media-type="image/png"/>
+<item id="img18" href="imgs/answer15.png" media-type="image/png"/>
+<item id="img19" href="imgs/answer16.png" media-type="image/png"/>
+<item id="img20" href="imgs/answer17.png" media-type="image/png"/>
+<item id="img21" href="imgs/answer18.png" media-type="image/png"/>
+<item id="img22" href="imgs/answer19.png" media-type="image/png"/>
+<item id="img23" href="imgs/answer2.png" media-type="image/png"/>
+<item id="img24" href="imgs/answer20.png" media-type="image/png"/>
+<item id="img25" href="imgs/answer201.png" media-type="image/png"/>
+<item id="img26" href="imgs/answer202.png" media-type="image/png"/>
+<item id="img27" href="imgs/answer203.png" media-type="image/png"/>
+<item id="img28" href="imgs/answer204.png" media-type="image/png"/>
+<item id="img29" href="imgs/answer205.png" media-type="image/png"/>
+<item id="img30" href="imgs/answer206.png" media-type="image/png"/>
+<item id="img31" href="imgs/answer207.png" media-type="image/png"/>
+<item id="img32" href="imgs/answer208.png" media-type="image/png"/>
+<item id="img33" href="imgs/answer209.png" media-type="image/png"/>
+<item id="img34" href="imgs/answer21.png" media-type="image/png"/>
+<item id="img35" href="imgs/answer210.png" media-type="image/png"/>
+<item id="img36" href="imgs/answer211.png" media-type="image/png"/>
+<item id="img37" href="imgs/answer212.png" media-type="image/png"/>
+<item id="img38" href="imgs/answer213.png" media-type="image/png"/>
+<item id="img39" href="imgs/answer214.png" media-type="image/png"/>
+<item id="img40" href="imgs/answer215.png" media-type="image/png"/>
+<item id="img41" href="imgs/answer216.png" media-type="image/png"/>
+<item id="img42" href="imgs/answer217.png" media-type="image/png"/>
+<item id="img43" href="imgs/answer218.png" media-type="image/png"/>
+<item id="img44" href="imgs/answer219.png" media-type="image/png"/>
+<item id="img45" href="imgs/answer22.png" media-type="image/png"/>
+<item id="img46" href="imgs/answer220.png" media-type="image/png"/>
+<item id="img47" href="imgs/answer221.png" media-type="image/png"/>
+<item id="img48" href="imgs/answer222.png" media-type="image/png"/>
+<item id="img49" href="imgs/answer223.png" media-type="image/png"/>
+<item id="img50" href="imgs/answer224.png" media-type="image/png"/>
+<item id="img51" href="imgs/answer225.png" media-type="image/png"/>
+<item id="img52" href="imgs/answer226.png" media-type="image/png"/>
+<item id="img53" href="imgs/answer227.png" media-type="image/png"/>
+<item id="img54" href="imgs/answer228.png" media-type="image/png"/>
+<item id="img55" href="imgs/answer229.png" media-type="image/png"/>
+<item id="img56" href="imgs/answer23.png" media-type="image/png"/>
+<item id="img57" href="imgs/answer230.png" media-type="image/png"/>
+<item id="img58" href="imgs/answer231.png" media-type="image/png"/>
+<item id="img59" href="imgs/answer232.png" media-type="image/png"/>
+<item id="img60" href="imgs/answer233.png" media-type="image/png"/>
+<item id="img61" href="imgs/answer234.png" media-type="image/png"/>
+<item id="img62" href="imgs/answer235.png" media-type="image/png"/>
+<item id="img63" href="imgs/answer236.png" media-type="image/png"/>
+<item id="img64" href="imgs/answer237.png" media-type="image/png"/>
+<item id="img65" href="imgs/answer238.png" media-type="image/png"/>
+<item id="img66" href="imgs/answer239.png" media-type="image/png"/>
+<item id="img67" href="imgs/answer24.png" media-type="image/png"/>
+<item id="img68" href="imgs/answer240.png" media-type="image/png"/>
+<item id="img69" href="imgs/answer241.png" media-type="image/png"/>
+<item id="img70" href="imgs/answer242.png" media-type="image/png"/>
+<item id="img71" href="imgs/answer243.png" media-type="image/png"/>
+<item id="img72" href="imgs/answer244.png" media-type="image/png"/>
+<item id="img73" href="imgs/answer245.png" media-type="image/png"/>
+<item id="img74" href="imgs/answer246.png" media-type="image/png"/>
+<item id="img75" href="imgs/answer247.png" media-type="image/png"/>
+<item id="img76" href="imgs/answer248.png" media-type="image/png"/>
+<item id="img77" href="imgs/answer249.png" media-type="image/png"/>
+<item id="img78" href="imgs/answer25.png" media-type="image/png"/>
+<item id="img79" href="imgs/answer250.png" media-type="image/png"/>
+<item id="img80" href="imgs/answer251.png" media-type="image/png"/>
+<item id="img81" href="imgs/answer252.png" media-type="image/png"/>
+<item id="img82" href="imgs/answer253.png" media-type="image/png"/>
+<item id="img83" href="imgs/answer254.png" media-type="image/png"/>
+<item id="img84" href="imgs/answer255.png" media-type="image/png"/>
+<item id="img85" href="imgs/answer256.png" media-type="image/png"/>
+<item id="img86" href="imgs/answer257.png" media-type="image/png"/>
+<item id="img87" href="imgs/answer258.png" media-type="image/png"/>
+<item id="img88" href="imgs/answer259.png" media-type="image/png"/>
+<item id="img89" href="imgs/answer26.png" media-type="image/png"/>
+<item id="img90" href="imgs/answer260.png" media-type="image/png"/>
+<item id="img91" href="imgs/answer261.png" media-type="image/png"/>
+<item id="img92" href="imgs/answer262.png" media-type="image/png"/>
+<item id="img93" href="imgs/answer263.png" media-type="image/png"/>
+<item id="img94" href="imgs/answer264.png" media-type="image/png"/>
+<item id="img95" href="imgs/answer265.png" media-type="image/png"/>
+<item id="img96" href="imgs/answer266.png" media-type="image/png"/>
+<item id="img97" href="imgs/answer267.png" media-type="image/png"/>
+<item id="img98" href="imgs/answer268.png" media-type="image/png"/>
+<item id="img99" href="imgs/answer269.png" media-type="image/png"/>
+<item id="img100" href="imgs/answer27.png" media-type="image/png"/>
+<item id="img101" href="imgs/answer270.png" media-type="image/png"/>
+<item id="img102" href="imgs/answer271.png" media-type="image/png"/>
+<item id="img103" href="imgs/answer272.png" media-type="image/png"/>
+<item id="img104" href="imgs/answer273.png" media-type="image/png"/>
+<item id="img105" href="imgs/answer274.png" media-type="image/png"/>
+<item id="img106" href="imgs/answer275.png" media-type="image/png"/>
+<item id="img107" href="imgs/answer276.png" media-type="image/png"/>
+<item id="img108" href="imgs/answer277.png" media-type="image/png"/>
+<item id="img109" href="imgs/answer28.png" media-type="image/png"/>
+<item id="img110" href="imgs/answer29.png" media-type="image/png"/>
+<item id="img111" href="imgs/answer30.png" media-type="image/png"/>
+<item id="img112" href="imgs/answer31.png" media-type="image/png"/>
+<item id="img113" href="imgs/answer32.png" media-type="image/png"/>
+<item id="img114" href="imgs/answer33.png" media-type="image/png"/>
+<item id="img115" href="imgs/answer34.png" media-type="image/png"/>
+<item id="img116" href="imgs/answer35.png" media-type="image/png"/>
+<item id="img117" href="imgs/answer36.png" media-type="image/png"/>
+<item id="img118" href="imgs/answer37.png" media-type="image/png"/>
+<item id="img119" href="imgs/answer38.png" media-type="image/png"/>
+<item id="img120" href="imgs/answer39.png" media-type="image/png"/>
+<item id="img121" href="imgs/answer40.png" media-type="image/png"/>
+<item id="img122" href="imgs/answer41.png" media-type="image/png"/>
+<item id="img123" href="imgs/answer42.png" media-type="image/png"/>
+<item id="img124" href="imgs/answer43.png" media-type="image/png"/>
+<item id="img125" href="imgs/answer44.png" media-type="image/png"/>
+<item id="img126" href="imgs/answer45.png" media-type="image/png"/>
+<item id="img127" href="imgs/answer46.png" media-type="image/png"/>
+<item id="img128" href="imgs/answer47.png" media-type="image/png"/>
+<item id="img129" href="imgs/answer48.png" media-type="image/png"/>
+<item id="img130" href="imgs/answer49.png" media-type="image/png"/>
+<item id="img131" href="imgs/answer50.png" media-type="image/png"/>
+<item id="img132" href="imgs/answershadow.png" media-type="image/png"/>
+<item id="img133" href="imgs/answershadow01.png" media-type="image/png"/>
+<item id="img134" href="imgs/answershadow02.png" media-type="image/png"/>
+<item id="img135" href="imgs/answershadow03.png" media-type="image/png"/>
+<item id="img136" href="imgs/answershadow04.png" media-type="image/png"/>
+<item id="img137" href="imgs/answershadow05.png" media-type="image/png"/>
+<item id="img138" href="imgs/answershadow06.png" media-type="image/png"/>
+<item id="img139" href="imgs/answershadow07.png" media-type="image/png"/>
+<item id="img140" href="imgs/answershadow08.png" media-type="image/png"/>
+<item id="img141" href="imgs/answershadow09.png" media-type="image/png"/>
+<item id="img142" href="imgs/answershadow10.png" media-type="image/png"/>
+<item id="img143" href="imgs/answershadow11.png" media-type="image/png"/>
+<item id="img144" href="imgs/answershadow12.png" media-type="image/png"/>
+<item id="img145" href="imgs/answershadow13.png" media-type="image/png"/>
+<item id="img146" href="imgs/answershadow14.png" media-type="image/png"/>
+<item id="img147" href="imgs/answershadow15.png" media-type="image/png"/>
+<item id="img148" href="imgs/answershadow16.png" media-type="image/png"/>
+<item id="img149" href="imgs/answershadow17.png" media-type="image/png"/>
+<item id="img150" href="imgs/answershadow18.png" media-type="image/png"/>
+<item id="img151" href="imgs/answershadow19.png" media-type="image/png"/>
+<item id="img152" href="imgs/answershadow20.png" media-type="image/png"/>
+<item id="img153" href="imgs/answershadow21.png" media-type="image/png"/>
+<item id="img154" href="imgs/answershadow22.png" media-type="image/png"/>
+<item id="img155" href="imgs/answershadow23.png" media-type="image/png"/>
+<item id="img156" href="imgs/answershadow24.png" media-type="image/png"/>
+<item id="img157" href="imgs/answershadow25.png" media-type="image/png"/>
+<item id="img158" href="imgs/answershadow26.png" media-type="image/png"/>
+<item id="img159" href="imgs/answershadow27.png" media-type="image/png"/>
+<item id="img160" href="imgs/answershadow28.png" media-type="image/png"/>
+<item id="img161" href="imgs/answershadow29.png" media-type="image/png"/>
+<item id="img162" href="imgs/answershadow30.png" media-type="image/png"/>
+<item id="img163" href="imgs/answershadow31.png" media-type="image/png"/>
+<item id="img164" href="imgs/answershadow32.png" media-type="image/png"/>
+<item id="img165" href="imgs/answershadow33.png" media-type="image/png"/>
+<item id="img166" href="imgs/answershadow34.png" media-type="image/png"/>
+<item id="img167" href="imgs/answershadow35.png" media-type="image/png"/>
+<item id="img168" href="imgs/answershadow36.png" media-type="image/png"/>
+<item id="img169" href="imgs/answershadow37.png" media-type="image/png"/>
+<item id="img170" href="imgs/answershadow38.png" media-type="image/png"/>
+<item id="img171" href="imgs/answershadow39.png" media-type="image/png"/>
+<item id="img172" href="imgs/answershadow40.png" media-type="image/png"/>
+<item id="img173" href="imgs/answershadow41.png" media-type="image/png"/>
+<item id="img174" href="imgs/answershadow42.png" media-type="image/png"/>
+<item id="img175" href="imgs/answershadow43.png" media-type="image/png"/>
+<item id="img176" href="imgs/answershadow44.png" media-type="image/png"/>
+<item id="img177" href="imgs/answershadow45.png" media-type="image/png"/>
+<item id="img178" href="imgs/answershadow46.png" media-type="image/png"/>
+<item id="img179" href="imgs/answershadow47.png" media-type="image/png"/>
+<item id="img180" href="imgs/answershadow48.png" media-type="image/png"/>
+<item id="img181" href="imgs/answershadow49.png" media-type="image/png"/>
+<item id="img182" href="imgs/answershadow50.png" media-type="image/png"/>
+<item id="img183" href="imgs/answershadow51.png" media-type="image/png"/>
+<item id="img184" href="imgs/answershadow52.png" media-type="image/png"/>
+<item id="img185" href="imgs/answershadow53.png" media-type="image/png"/>
+<item id="img186" href="imgs/answershadow54.png" media-type="image/png"/>
+<item id="img187" href="imgs/answershadow55.png" media-type="image/png"/>
+<item id="img188" href="imgs/answershadow56.png" media-type="image/png"/>
+<item id="img189" href="imgs/answershadow57.png" media-type="image/png"/>
+<item id="img190" href="imgs/answershadow58.png" media-type="image/png"/>
+<item id="img191" href="imgs/answershadow59.png" media-type="image/png"/>
+<item id="img192" href="imgs/answershadow60.png" media-type="image/png"/>
+<item id="img193" href="imgs/answershadow61.png" media-type="image/png"/>
+<item id="img194" href="imgs/answershadow62.png" media-type="image/png"/>
+<item id="img195" href="imgs/answershadow63.png" media-type="image/png"/>
+<item id="img196" href="imgs/answershadow64.png" media-type="image/png"/>
+<item id="img197" href="imgs/answershadow65.png" media-type="image/png"/>
+<item id="img198" href="imgs/answershadow66.png" media-type="image/png"/>
+<item id="img199" href="imgs/answershadow67.png" media-type="image/png"/>
+<item id="img200" href="imgs/answershadow68.png" media-type="image/png"/>
+<item id="img201" href="imgs/answershadow69.png" media-type="image/png"/>
+<item id="img202" href="imgs/answershadow70.png" media-type="image/png"/>
+<item id="img203" href="imgs/answershadow71.png" media-type="image/png"/>
+<item id="img204" href="imgs/answershadow72.png" media-type="image/png"/>
+<item id="img205" href="imgs/answershadow73.png" media-type="image/png"/>
+<item id="img206" href="imgs/answershadow74.png" media-type="image/png"/>
+<item id="img207" href="imgs/answershadow75.png" media-type="image/png"/>
+<item id="img208" href="imgs/answershadow76.png" media-type="image/png"/>
+<item id="img209" href="imgs/answershadow77.png" media-type="image/png"/>
+<item id="img210" href="imgs/answershadow78.png" media-type="image/png"/>
+<item id="img211" href="imgs/answershadow79.png" media-type="image/png"/>
+<item id="img212" href="imgs/answershadow80.png" media-type="image/png"/>
+<item id="img213" href="imgs/answershadow81.png" media-type="image/png"/>
+<item id="img214" href="imgs/answershadow82.png" media-type="image/png"/>
+<item id="img215" href="imgs/answershadow83.png" media-type="image/png"/>
+<item id="img216" href="imgs/answershadow84.png" media-type="image/png"/>
+<item id="img217" href="imgs/answershadow85.png" media-type="image/png"/>
+<item id="img218" href="imgs/answershadow86.png" media-type="image/png"/>
+<item id="img219" href="imgs/answershadow87.png" media-type="image/png"/>
+<item id="img220" href="imgs/answershadow88.png" media-type="image/png"/>
+<item id="img221" href="imgs/answershadow89.png" media-type="image/png"/>
+<item id="img222" href="imgs/answershadow90.png" media-type="image/png"/>
+<item id="img223" href="imgs/answershadow91.png" media-type="image/png"/>
+<item id="img224" href="imgs/answershadow92.png" media-type="image/png"/>
+<item id="img225" href="imgs/answershadow93.png" media-type="image/png"/>
+<item id="img226" href="imgs/answershadow94.png" media-type="image/png"/>
+<item id="img227" href="imgs/answershadow95.png" media-type="image/png"/>
+<item id="img228" href="imgs/answershadow96.png" media-type="image/png"/>
+<item id="img229" href="imgs/answershadow97.png" media-type="image/png"/>
+<item id="img230" href="imgs/answershadow98.png" media-type="image/png"/>
+<item id="img231" href="imgs/answershadow99.png" media-type="image/png"/>
+<item id="img232" href="imgs/answershads04.png" media-type="image/png"/>
+<item id="img233" href="imgs/answershads09.png" media-type="image/png"/>
+<item id="img234" href="imgs/answershads0b.png" media-type="image/png"/>
+<item id="img235" href="imgs/answershads0f.png" media-type="image/png"/>
+<item id="img236" href="imgs/answershads0f01.png" media-type="image/png"/>
+<item id="img237" href="imgs/answershads0h.png" media-type="image/png"/>
+<item id="img238" href="imgs/answershads0q.png" media-type="image/png"/>
+<item id="img239" href="imgs/answershads0q01.png" media-type="image/png"/>
+<item id="img240" href="imgs/answershads0s.png" media-type="image/png"/>
+<item id="img241" href="imgs/answershads0x.png" media-type="image/png"/>
+<item id="img242" href="imgs/answershads0z.png" media-type="image/png"/>
+<item id="img243" href="imgs/answershads11.png" media-type="image/png"/>
+<item id="img244" href="imgs/answershads12.png" media-type="image/png"/>
+<item id="img245" href="imgs/answershads13.png" media-type="image/png"/>
+<item id="img246" href="imgs/answershads14.png" media-type="image/png"/>
+<item id="img247" href="imgs/answershads15.png" media-type="image/png"/>
+<item id="img248" href="imgs/answershads16.png" media-type="image/png"/>
+<item id="img249" href="imgs/answershads17.png" media-type="image/png"/>
+<item id="img250" href="imgs/answershads1a.png" media-type="image/png"/>
+<item id="img251" href="imgs/answershads1d.png" media-type="image/png"/>
+<item id="img252" href="imgs/answershads1g.png" media-type="image/png"/>
+<item id="img253" href="imgs/answershads1h.png" media-type="image/png"/>
+<item id="img254" href="imgs/answershads1k.png" media-type="image/png"/>
+<item id="img255" href="imgs/answershads1o.png" media-type="image/png"/>
+<item id="img256" href="imgs/answershads1p.png" media-type="image/png"/>
+<item id="img257" href="imgs/answershads1q.png" media-type="image/png"/>
+<item id="img258" href="imgs/answershads1s.png" media-type="image/png"/>
+<item id="img259" href="imgs/answershads1s01.png" media-type="image/png"/>
+<item id="img260" href="imgs/answershads1z.png" media-type="image/png"/>
+<item id="img261" href="imgs/answershads1z01.png" media-type="image/png"/>
+<item id="img262" href="imgs/answershads22.png" media-type="image/png"/>
+<item id="img263" href="imgs/answershads28.png" media-type="image/png"/>
+<item id="img264" href="imgs/answershads2b.png" media-type="image/png"/>
+<item id="img265" href="imgs/answershads2i.png" media-type="image/png"/>
+<item id="img266" href="imgs/answershads2o.png" media-type="image/png"/>
+<item id="img267" href="imgs/answershads2t.png" media-type="image/png"/>
+<item id="img268" href="imgs/answershads2u.png" media-type="image/png"/>
+<item id="img269" href="imgs/answershads2v.png" media-type="image/png"/>
+<item id="img270" href="imgs/answershads30.png" media-type="image/png"/>
+<item id="img271" href="imgs/answershads31.png" media-type="image/png"/>
+<item id="img272" href="imgs/answershads3h.png" media-type="image/png"/>
+<item id="img273" href="imgs/answershads3p.png" media-type="image/png"/>
+<item id="img274" href="imgs/answershads43.png" media-type="image/png"/>
+<item id="img275" href="imgs/answershads4b.png" media-type="image/png"/>
+<item id="img276" href="imgs/answershads4h.png" media-type="image/png"/>
+<item id="img277" href="imgs/answershads4q.png" media-type="image/png"/>
+<item id="img278" href="imgs/answershads4v.png" media-type="image/png"/>
+<item id="img279" href="imgs/answershads4w.png" media-type="image/png"/>
+<item id="img280" href="imgs/answershads51.png" media-type="image/png"/>
+<item id="img281" href="imgs/answershads52.png" media-type="image/png"/>
+<item id="img282" href="imgs/answershads54.png" media-type="image/png"/>
+<item id="img283" href="imgs/answershads55.png" media-type="image/png"/>
+<item id="img284" href="imgs/answershads59.png" media-type="image/png"/>
+<item id="img285" href="imgs/answershads5a.png" media-type="image/png"/>
+<item id="img286" href="imgs/answershads5e.png" media-type="image/png"/>
+<item id="img287" href="imgs/answershads5e01.png" media-type="image/png"/>
+<item id="img288" href="imgs/answershads5q.png" media-type="image/png"/>
+<item id="img289" href="imgs/answershads5u.png" media-type="image/png"/>
+<item id="img290" href="imgs/answershads61.png" media-type="image/png"/>
+<item id="img291" href="imgs/answershads68.png" media-type="image/png"/>
+<item id="img292" href="imgs/answershads6e.png" media-type="image/png"/>
+<item id="img293" href="imgs/answershads6f.png" media-type="image/png"/>
+<item id="img294" href="imgs/answershads6i.png" media-type="image/png"/>
+<item id="img295" href="imgs/answershads6k.png" media-type="image/png"/>
+<item id="img296" href="imgs/answershads6m.png" media-type="image/png"/>
+<item id="img297" href="imgs/answershads6v.png" media-type="image/png"/>
+<item id="img298" href="imgs/answershads76.png" media-type="image/png"/>
+<item id="img299" href="imgs/answershads7a.png" media-type="image/png"/>
+<item id="img300" href="imgs/answershads7g.png" media-type="image/png"/>
+<item id="img301" href="imgs/answershads81.png" media-type="image/png"/>
+<item id="img302" href="imgs/answershads82.png" media-type="image/png"/>
+<item id="img303" href="imgs/answershads83.png" media-type="image/png"/>
+<item id="img304" href="imgs/answershads84.png" media-type="image/png"/>
+<item id="img305" href="imgs/answershads8j.png" media-type="image/png"/>
+<item id="img306" href="imgs/answershads8l.png" media-type="image/png"/>
+<item id="img307" href="imgs/answershads8t.png" media-type="image/png"/>
+<item id="img308" href="imgs/answershads8x.png" media-type="image/png"/>
+<item id="img309" href="imgs/answershads8x01.png" media-type="image/png"/>
+<item id="img310" href="imgs/answershads96.png" media-type="image/png"/>
+<item id="img311" href="imgs/answershads9b.png" media-type="image/png"/>
+<item id="img312" href="imgs/answershads9b01.png" media-type="image/png"/>
+<item id="img313" href="imgs/answershads9e.png" media-type="image/png"/>
+<item id="img314" href="imgs/answershads9g.png" media-type="image/png"/>
+<item id="img315" href="imgs/answershads9i.png" media-type="image/png"/>
+<item id="img316" href="imgs/answershads9m.png" media-type="image/png"/>
+<item id="img317" href="imgs/answershads9o.png" media-type="image/png"/>
+<item id="img318" href="imgs/answershads9o01.png" media-type="image/png"/>
+<item id="img319" href="imgs/answershads9u.png" media-type="image/png"/>
+<item id="img320" href="imgs/answershads9y.png" media-type="image/png"/>
+<item id="img321" href="imgs/answershadsa4.png" media-type="image/png"/>
+<item id="img322" href="imgs/answershadsa401.png" media-type="image/png"/>
+<item id="img323" href="imgs/answershadsa402.png" media-type="image/png"/>
+<item id="img324" href="imgs/answershadsa6.png" media-type="image/png"/>
+<item id="img325" href="imgs/answershadsa8.png" media-type="image/png"/>
+<item id="img326" href="imgs/answershadsab.png" media-type="image/png"/>
+<item id="img327" href="imgs/answershadsai.png" media-type="image/png"/>
+<item id="img328" href="imgs/answershadsaj.png" media-type="image/png"/>
+<item id="img329" href="imgs/answershadsao.png" media-type="image/png"/>
+<item id="img330" href="imgs/answershadsas.png" media-type="image/png"/>
+<item id="img331" href="imgs/answershadsb3.png" media-type="image/png"/>
+<item id="img332" href="imgs/answershadsb5.png" media-type="image/png"/>
+<item id="img333" href="imgs/answershadsba.png" media-type="image/png"/>
+<item id="img334" href="imgs/answershadsba01.png" media-type="image/png"/>
+<item id="img335" href="imgs/answershadsbj.png" media-type="image/png"/>
+<item id="img336" href="imgs/answershadsbr.png" media-type="image/png"/>
+<item id="img337" href="imgs/answershadsbs.png" media-type="image/png"/>
+<item id="img338" href="imgs/answershadsbv.png" media-type="image/png"/>
+<item id="img339" href="imgs/answershadsc3.png" media-type="image/png"/>
+<item id="img340" href="imgs/answershadscd.png" media-type="image/png"/>
+<item id="img341" href="imgs/answershadscj.png" media-type="image/png"/>
+<item id="img342" href="imgs/answershadsco.png" media-type="image/png"/>
+<item id="img343" href="imgs/answershadsct.png" media-type="image/png"/>
+<item id="img344" href="imgs/answershadscw.png" media-type="image/png"/>
+<item id="img345" href="imgs/answershadscw01.png" media-type="image/png"/>
+<item id="img346" href="imgs/answershadscy.png" media-type="image/png"/>
+<item id="img347" href="imgs/answershadscz.png" media-type="image/png"/>
+<item id="img348" href="imgs/answershadsdb.png" media-type="image/png"/>
+<item id="img349" href="imgs/answershadsdo.png" media-type="image/png"/>
+<item id="img350" href="imgs/answershadsds.png" media-type="image/png"/>
+<item id="img351" href="imgs/answershadsdt.png" media-type="image/png"/>
+<item id="img352" href="imgs/answershadsdy.png" media-type="image/png"/>
+<item id="img353" href="imgs/answershadse4.png" media-type="image/png"/>
+<item id="img354" href="imgs/answershadse6.png" media-type="image/png"/>
+<item id="img355" href="imgs/answershadsej.png" media-type="image/png"/>
+<item id="img356" href="imgs/answershadsek.png" media-type="image/png"/>
+<item id="img357" href="imgs/answershadsen.png" media-type="image/png"/>
+<item id="img358" href="imgs/answershadser.png" media-type="image/png"/>
+<item id="img359" href="imgs/answershadseu.png" media-type="image/png"/>
+<item id="img360" href="imgs/answershadsev.png" media-type="image/png"/>
+<item id="img361" href="imgs/answershadsf7.png" media-type="image/png"/>
+<item id="img362" href="imgs/answershadsfc.png" media-type="image/png"/>
+<item id="img363" href="imgs/answershadsfq.png" media-type="image/png"/>
+<item id="img364" href="imgs/answershadsfr.png" media-type="image/png"/>
+<item id="img365" href="imgs/answershadsfs.png" media-type="image/png"/>
+<item id="img366" href="imgs/answershadsgh.png" media-type="image/png"/>
+<item id="img367" href="imgs/answershadsgi.png" media-type="image/png"/>
+<item id="img368" href="imgs/answershadsgj.png" media-type="image/png"/>
+<item id="img369" href="imgs/answershadsgj01.png" media-type="image/png"/>
+<item id="img370" href="imgs/answershadsgs.png" media-type="image/png"/>
+<item id="img371" href="imgs/answershadsgz.png" media-type="image/png"/>
+<item id="img372" href="imgs/answershadsh5.png" media-type="image/png"/>
+<item id="img373" href="imgs/answershadsh6.png" media-type="image/png"/>
+<item id="img374" href="imgs/answershadsh7.png" media-type="image/png"/>
+<item id="img375" href="imgs/answershadsh8.png" media-type="image/png"/>
+<item id="img376" href="imgs/answershadshc.png" media-type="image/png"/>
+<item id="img377" href="imgs/answershadshc01.png" media-type="image/png"/>
+<item id="img378" href="imgs/answershadshi.png" media-type="image/png"/>
+<item id="img379" href="imgs/answershadshl.png" media-type="image/png"/>
+<item id="img380" href="imgs/answershadshy.png" media-type="image/png"/>
+<item id="img381" href="imgs/answershadshz.png" media-type="image/png"/>
+<item id="img382" href="imgs/answershadsi5.png" media-type="image/png"/>
+<item id="img383" href="imgs/answershadsi9.png" media-type="image/png"/>
+<item id="img384" href="imgs/answershadsi901.png" media-type="image/png"/>
+<item id="img385" href="imgs/answershadsir.png" media-type="image/png"/>
+<item id="img386" href="imgs/answershadsir01.png" media-type="image/png"/>
+<item id="img387" href="imgs/answershadsit.png" media-type="image/png"/>
+<item id="img388" href="imgs/answershadsj2.png" media-type="image/png"/>
+<item id="img389" href="imgs/answershadsj5.png" media-type="image/png"/>
+<item id="img390" href="imgs/answershadsjh.png" media-type="image/png"/>
+<item id="img391" href="imgs/answershadsjm.png" media-type="image/png"/>
+<item id="img392" href="imgs/answershadsjo.png" media-type="image/png"/>
+<item id="img393" href="imgs/answershadsjv.png" media-type="image/png"/>
+<item id="img394" href="imgs/answershadsk2.png" media-type="image/png"/>
+<item id="img395" href="imgs/answershadsk201.png" media-type="image/png"/>
+<item id="img396" href="imgs/answershadska.png" media-type="image/png"/>
+<item id="img397" href="imgs/answershadska01.png" media-type="image/png"/>
+<item id="img398" href="imgs/answershadska02.png" media-type="image/png"/>
+<item id="img399" href="imgs/answershadskd.png" media-type="image/png"/>
+<item id="img400" href="imgs/answershadski.png" media-type="image/png"/>
+<item id="img401" href="imgs/answershadskn.png" media-type="image/png"/>
+<item id="img402" href="imgs/answershadskv.png" media-type="image/png"/>
+<item id="img403" href="imgs/answershadsl3.png" media-type="image/png"/>
+<item id="img404" href="imgs/answershadsle.png" media-type="image/png"/>
+<item id="img405" href="imgs/answershadslg.png" media-type="image/png"/>
+<item id="img406" href="imgs/answershadslq.png" media-type="image/png"/>
+<item id="img407" href="imgs/answershadsls.png" media-type="image/png"/>
+<item id="img408" href="imgs/answershadslw.png" media-type="image/png"/>
+<item id="img409" href="imgs/answershadslx.png" media-type="image/png"/>
+<item id="img410" href="imgs/answershadsm8.png" media-type="image/png"/>
+<item id="img411" href="imgs/answershadsmc.png" media-type="image/png"/>
+<item id="img412" href="imgs/answershadsms.png" media-type="image/png"/>
+<item id="img413" href="imgs/answershadsmt.png" media-type="image/png"/>
+<item id="img414" href="imgs/answershadsmv.png" media-type="image/png"/>
+<item id="img415" href="imgs/answershadsn2.png" media-type="image/png"/>
+<item id="img416" href="imgs/answershadsnf.png" media-type="image/png"/>
+<item id="img417" href="imgs/answershadsnf01.png" media-type="image/png"/>
+<item id="img418" href="imgs/answershadsnh.png" media-type="image/png"/>
+<item id="img419" href="imgs/answershadsnj.png" media-type="image/png"/>
+<item id="img420" href="imgs/answershadsnl.png" media-type="image/png"/>
+<item id="img421" href="imgs/answershadsnp.png" media-type="image/png"/>
+<item id="img422" href="imgs/answershadsnq.png" media-type="image/png"/>
+<item id="img423" href="imgs/answershadso2.png" media-type="image/png"/>
+<item id="img424" href="imgs/answershadsod.png" media-type="image/png"/>
+<item id="img425" href="imgs/answershadsoi.png" media-type="image/png"/>
+<item id="img426" href="imgs/answershadsoi01.png" media-type="image/png"/>
+<item id="img427" href="imgs/answershadsol.png" media-type="image/png"/>
+<item id="img428" href="imgs/answershadsoo.png" media-type="image/png"/>
+<item id="img429" href="imgs/answershadsor.png" media-type="image/png"/>
+<item id="img430" href="imgs/answershadsov.png" media-type="image/png"/>
+<item id="img431" href="imgs/answershadsoz.png" media-type="image/png"/>
+<item id="img432" href="imgs/answershadsoz01.png" media-type="image/png"/>
+<item id="img433" href="imgs/answershadspf.png" media-type="image/png"/>
+<item id="img434" href="imgs/answershadspk.png" media-type="image/png"/>
+<item id="img435" href="imgs/answershadspn.png" media-type="image/png"/>
+<item id="img436" href="imgs/answershadsq3.png" media-type="image/png"/>
+<item id="img437" href="imgs/answershadsqa.png" media-type="image/png"/>
+<item id="img438" href="imgs/answershadsqf.png" media-type="image/png"/>
+<item id="img439" href="imgs/answershadsqi.png" media-type="image/png"/>
+<item id="img440" href="imgs/answershadsql.png" media-type="image/png"/>
+<item id="img441" href="imgs/answershadsql01.png" media-type="image/png"/>
+<item id="img442" href="imgs/answershadsqr.png" media-type="image/png"/>
+<item id="img443" href="imgs/answershadsqt.png" media-type="image/png"/>
+<item id="img444" href="imgs/answershadsqt01.png" media-type="image/png"/>
+<item id="img445" href="imgs/answershadsqu.png" media-type="image/png"/>
+<item id="img446" href="imgs/answershadsqx.png" media-type="image/png"/>
+<item id="img447" href="imgs/answershadsr7.png" media-type="image/png"/>
+<item id="img448" href="imgs/answershadsr701.png" media-type="image/png"/>
+<item id="img449" href="imgs/answershadsra.png" media-type="image/png"/>
+<item id="img450" href="imgs/answershadsrg.png" media-type="image/png"/>
+<item id="img451" href="imgs/answershadsrh.png" media-type="image/png"/>
+<item id="img452" href="imgs/answershadsri.png" media-type="image/png"/>
+<item id="img453" href="imgs/answershadsrl.png" media-type="image/png"/>
+<item id="img454" href="imgs/answershadsro.png" media-type="image/png"/>
+<item id="img455" href="imgs/answershadsro01.png" media-type="image/png"/>
+<item id="img456" href="imgs/answershadss2.png" media-type="image/png"/>
+<item id="img457" href="imgs/answershadss7.png" media-type="image/png"/>
+<item id="img458" href="imgs/answershadssb.png" media-type="image/png"/>
+<item id="img459" href="imgs/answershadssg.png" media-type="image/png"/>
+<item id="img460" href="imgs/answershadsso.png" media-type="image/png"/>
+<item id="img461" href="imgs/answershadssp.png" media-type="image/png"/>
+<item id="img462" href="imgs/answershadssv.png" media-type="image/png"/>
+<item id="img463" href="imgs/answershadstb.png" media-type="image/png"/>
+<item id="img464" href="imgs/answershadstf.png" media-type="image/png"/>
+<item id="img465" href="imgs/answershadstg.png" media-type="image/png"/>
+<item id="img466" href="imgs/answershadsth.png" media-type="image/png"/>
+<item id="img467" href="imgs/answershadstj.png" media-type="image/png"/>
+<item id="img468" href="imgs/answershadsto.png" media-type="image/png"/>
+<item id="img469" href="imgs/answershadstp.png" media-type="image/png"/>
+<item id="img470" href="imgs/answershadstr.png" media-type="image/png"/>
+<item id="img471" href="imgs/answershadstv.png" media-type="image/png"/>
+<item id="img472" href="imgs/answershadsub.png" media-type="image/png"/>
+<item id="img473" href="imgs/answershadsub01.png" media-type="image/png"/>
+<item id="img474" href="imgs/answershadsuq.png" media-type="image/png"/>
+<item id="img475" href="imgs/answershadsus.png" media-type="image/png"/>
+<item id="img476" href="imgs/answershadsux.png" media-type="image/png"/>
+<item id="img477" href="imgs/answershadsv3.png" media-type="image/png"/>
+<item id="img478" href="imgs/answershadsvj.png" media-type="image/png"/>
+<item id="img479" href="imgs/answershadsvt.png" media-type="image/png"/>
+<item id="img480" href="imgs/answershadsw4.png" media-type="image/png"/>
+<item id="img481" href="imgs/answershadswi.png" media-type="image/png"/>
+<item id="img482" href="imgs/answershadswj.png" media-type="image/png"/>
+<item id="img483" href="imgs/answershadswo.png" media-type="image/png"/>
+<item id="img484" href="imgs/answershadswq.png" media-type="image/png"/>
+<item id="img485" href="imgs/answershadswu.png" media-type="image/png"/>
+<item id="img486" href="imgs/answershadsx3.png" media-type="image/png"/>
+<item id="img487" href="imgs/answershadsx5.png" media-type="image/png"/>
+<item id="img488" href="imgs/answershadsx9.png" media-type="image/png"/>
+<item id="img489" href="imgs/answershadsxa.png" media-type="image/png"/>
+<item id="img490" href="imgs/answershadsxg.png" media-type="image/png"/>
+<item id="img491" href="imgs/answershadsxg01.png" media-type="image/png"/>
+<item id="img492" href="imgs/answershadsxp.png" media-type="image/png"/>
+<item id="img493" href="imgs/answershadsxr.png" media-type="image/png"/>
+<item id="img494" href="imgs/answershadsxu.png" media-type="image/png"/>
+<item id="img495" href="imgs/answershadsxu01.png" media-type="image/png"/>
+<item id="img496" href="imgs/answershadsxw.png" media-type="image/png"/>
+<item id="img497" href="imgs/answershadsy1.png" media-type="image/png"/>
+<item id="img498" href="imgs/answershadsy4.png" media-type="image/png"/>
+<item id="img499" href="imgs/answershadsy6.png" media-type="image/png"/>
+<item id="img500" href="imgs/answershadsyd.png" media-type="image/png"/>
+<item id="img501" href="imgs/answershadsye.png" media-type="image/png"/>
+<item id="img502" href="imgs/answershadsyg.png" media-type="image/png"/>
+<item id="img503" href="imgs/answershadsyt.png" media-type="image/png"/>
+<item id="img504" href="imgs/answershadsyt01.png" media-type="image/png"/>
+<item id="img505" href="imgs/answershadsyx.png" media-type="image/png"/>
+<item id="img506" href="imgs/answershadsyy.png" media-type="image/png"/>
+<item id="img507" href="imgs/answershadsz0.png" media-type="image/png"/>
+<item id="img508" href="imgs/answershadsz1.png" media-type="image/png"/>
+<item id="img509" href="imgs/answershadsz3.png" media-type="image/png"/>
+<item id="img510" href="imgs/answershadsz7.png" media-type="image/png"/>
+<item id="img511" href="imgs/answershadszn.png" media-type="image/png"/>
+<item id="img512" href="imgs/answershadszt.png" media-type="image/png"/>
+<item id="img513" href="imgs/answershadszx.png" media-type="image/png"/>
+<item id="img514" href="imgs/banner.jpg" media-type="image/jpeg"/>
+<item id="img515" href="imgs/bg00001.jpg" media-type="image/jpeg"/>
+<item id="img516" href="imgs/bg00002.jpg" media-type="image/jpeg"/>
+<item id="img517" href="imgs/bg00003.jpg" media-type="image/jpeg"/>
+<item id="img518" href="imgs/defaultCover.png" media-type="image/png"/>
+<item id="img519" href="imgs/defaultcover01.png" media-type="image/png"/>
+<item id="img520" href="imgs/online-student-reg01.png" media-type="image/png"/>
+<item id="img521" href="imgs/online-student-reg02.png" media-type="image/png"/>
+<item id="img522" href="imgs/online-student-reg03.png" media-type="image/png"/>
+<item id="img523" href="imgs/online-student-reg04.png" media-type="image/png"/>
+<item id="img524" href="imgs/online-student-reg05.png" media-type="image/png"/>
+<item id="img525" href="imgs/online-student-reg06.png" media-type="image/png"/>
+<item id="img526" href="imgs/online-student-reg07.png" media-type="image/png"/>
+<item id="img527" href="imgs/online-student-reg08.png" media-type="image/png"/>
+<item id="img528" href="imgs/online-student-reg09.png" media-type="image/png"/>
+<item id="img529" href="imgs/online-student-reg10.png" media-type="image/png"/>
+<item id="img530" href="imgs/online-student-regis.png" media-type="image/png"/>
+<item id="img531" href="imgs/usersleonardogonza01.png" media-type="image/png"/>
+<item id="img532" href="imgs/usersleonardogonza02.png" media-type="image/png"/>
+<item id="img533" href="imgs/usersleonardogonza03.png" media-type="image/png"/>
+<item id="img534" href="imgs/usersleonardogonza04.png" media-type="image/png"/>
+<item id="img535" href="imgs/usersleonardogonzale.jpg" properties="cover-image" media-type="image/jpeg"/>
+<item id="img536" href="imgs/usersleonardogonzale.png" media-type="image/png"/>
+<item id="img537" href="xhtml/pdf7cup1/page1/page.png" media-type="image/png"/>
+<item id="img538" href="xhtml/pdf90jez/page1/page.png" media-type="image/png"/>
+<item id="img539" href="xhtml/pdf90jez/page10/page.png" media-type="image/png"/>
+<item id="img540" href="xhtml/pdf90jez/page11/page.png" media-type="image/png"/>
+<item id="img541" href="xhtml/pdf90jez/page12/page.png" media-type="image/png"/>
+<item id="img542" href="xhtml/pdf90jez/page13/page.png" media-type="image/png"/>
+<item id="img543" href="xhtml/pdf90jez/page14/page.png" media-type="image/png"/>
+<item id="img544" href="xhtml/pdf90jez/page15/page.png" media-type="image/png"/>
+<item id="img545" href="xhtml/pdf90jez/page16/page.png" media-type="image/png"/>
+<item id="img546" href="xhtml/pdf90jez/page17/page.png" media-type="image/png"/>
+<item id="img547" href="xhtml/pdf90jez/page18/page.png" media-type="image/png"/>
+<item id="img548" href="xhtml/pdf90jez/page19/page.png" media-type="image/png"/>
+<item id="img549" href="xhtml/pdf90jez/page2/page.png" media-type="image/png"/>
+<item id="img550" href="xhtml/pdf90jez/page20/page.png" media-type="image/png"/>
+<item id="img551" href="xhtml/pdf90jez/page21/page.png" media-type="image/png"/>
+<item id="img552" href="xhtml/pdf90jez/page22/page.png" media-type="image/png"/>
+<item id="img553" href="xhtml/pdf90jez/page23/page.png" media-type="image/png"/>
+<item id="img554" href="xhtml/pdf90jez/page24/page.png" media-type="image/png"/>
+<item id="img555" href="xhtml/pdf90jez/page25/page.png" media-type="image/png"/>
+<item id="img556" href="xhtml/pdf90jez/page26/page.png" media-type="image/png"/>
+<item id="img557" href="xhtml/pdf90jez/page27/page.png" media-type="image/png"/>
+<item id="img558" href="xhtml/pdf90jez/page28/page.png" media-type="image/png"/>
+<item id="img559" href="xhtml/pdf90jez/page29/page.png" media-type="image/png"/>
+<item id="img560" href="xhtml/pdf90jez/page3/page.png" media-type="image/png"/>
+<item id="img561" href="xhtml/pdf90jez/page30/page.png" media-type="image/png"/>
+<item id="img562" href="xhtml/pdf90jez/page31/page.png" media-type="image/png"/>
+<item id="img563" href="xhtml/pdf90jez/page32/page.png" media-type="image/png"/>
+<item id="img564" href="xhtml/pdf90jez/page33/page.png" media-type="image/png"/>
+<item id="img565" href="xhtml/pdf90jez/page34/page.png" media-type="image/png"/>
+<item id="img566" href="xhtml/pdf90jez/page35/page.png" media-type="image/png"/>
+<item id="img567" href="xhtml/pdf90jez/page36/page.png" media-type="image/png"/>
+<item id="img568" href="xhtml/pdf90jez/page37/page.png" media-type="image/png"/>
+<item id="img569" href="xhtml/pdf90jez/page38/page.png" media-type="image/png"/>
+<item id="img570" href="xhtml/pdf90jez/page39/page.png" media-type="image/png"/>
+<item id="img571" href="xhtml/pdf90jez/page4/page.png" media-type="image/png"/>
+<item id="img572" href="xhtml/pdf90jez/page40/page.png" media-type="image/png"/>
+<item id="img573" href="xhtml/pdf90jez/page41/page.png" media-type="image/png"/>
+<item id="img574" href="xhtml/pdf90jez/page42/page.png" media-type="image/png"/>
+<item id="img575" href="xhtml/pdf90jez/page43/page.png" media-type="image/png"/>
+<item id="img576" href="xhtml/pdf90jez/page44/page.png" media-type="image/png"/>
+<item id="img577" href="xhtml/pdf90jez/page45/page.png" media-type="image/png"/>
+<item id="img578" href="xhtml/pdf90jez/page46/page.png" media-type="image/png"/>
+<item id="img579" href="xhtml/pdf90jez/page47/page.png" media-type="image/png"/>
+<item id="img580" href="xhtml/pdf90jez/page48/page.png" media-type="image/png"/>
+<item id="img581" href="xhtml/pdf90jez/page49/page.png" media-type="image/png"/>
+<item id="img582" href="xhtml/pdf90jez/page5/page.png" media-type="image/png"/>
+<item id="img583" href="xhtml/pdf90jez/page50/page.png" media-type="image/png"/>
+<item id="img584" href="xhtml/pdf90jez/page51/page.png" media-type="image/png"/>
+<item id="img585" href="xhtml/pdf90jez/page52/page.png" media-type="image/png"/>
+<item id="img586" href="xhtml/pdf90jez/page53/page.png" media-type="image/png"/>
+<item id="img587" href="xhtml/pdf90jez/page54/page.png" media-type="image/png"/>
+<item id="img588" href="xhtml/pdf90jez/page55/page.png" media-type="image/png"/>
+<item id="img589" href="xhtml/pdf90jez/page56/page.png" media-type="image/png"/>
+<item id="img590" href="xhtml/pdf90jez/page57/page.png" media-type="image/png"/>
+<item id="img591" href="xhtml/pdf90jez/page58/page.png" media-type="image/png"/>
+<item id="img592" href="xhtml/pdf90jez/page59/page.png" media-type="image/png"/>
+<item id="img593" href="xhtml/pdf90jez/page6/page.png" media-type="image/png"/>
+<item id="img594" href="xhtml/pdf90jez/page60/page.png" media-type="image/png"/>
+<item id="img595" href="xhtml/pdf90jez/page61/page.png" media-type="image/png"/>
+<item id="img596" href="xhtml/pdf90jez/page62/page.png" media-type="image/png"/>
+<item id="img597" href="xhtml/pdf90jez/page63/page.png" media-type="image/png"/>
+<item id="img598" href="xhtml/pdf90jez/page64/page.png" media-type="image/png"/>
+<item id="img599" href="xhtml/pdf90jez/page65/page.png" media-type="image/png"/>
+<item id="img600" href="xhtml/pdf90jez/page66/page.png" media-type="image/png"/>
+<item id="img601" href="xhtml/pdf90jez/page67/page.png" media-type="image/png"/>
+<item id="img602" href="xhtml/pdf90jez/page68/page.png" media-type="image/png"/>
+<item id="img603" href="xhtml/pdf90jez/page69/page.png" media-type="image/png"/>
+<item id="img604" href="xhtml/pdf90jez/page7/page.png" media-type="image/png"/>
+<item id="img605" href="xhtml/pdf90jez/page70/page.png" media-type="image/png"/>
+<item id="img606" href="xhtml/pdf90jez/page71/page.png" media-type="image/png"/>
+<item id="img607" href="xhtml/pdf90jez/page72/page.png" media-type="image/png"/>
+<item id="img608" href="xhtml/pdf90jez/page73/page.png" media-type="image/png"/>
+<item id="img609" href="xhtml/pdf90jez/page74/page.png" media-type="image/png"/>
+<item id="img610" href="xhtml/pdf90jez/page75/page.png" media-type="image/png"/>
+<item id="img611" href="xhtml/pdf90jez/page76/page.png" media-type="image/png"/>
+<item id="img612" href="xhtml/pdf90jez/page77/page.png" media-type="image/png"/>
+<item id="img613" href="xhtml/pdf90jez/page78/page.png" media-type="image/png"/>
+<item id="img614" href="xhtml/pdf90jez/page79/page.png" media-type="image/png"/>
+<item id="img615" href="xhtml/pdf90jez/page8/page.png" media-type="image/png"/>
+<item id="img616" href="xhtml/pdf90jez/page80/page.png" media-type="image/png"/>
+<item id="img617" href="xhtml/pdf90jez/page81/page.png" media-type="image/png"/>
+<item id="img618" href="xhtml/pdf90jez/page82/page.png" media-type="image/png"/>
+<item id="img619" href="xhtml/pdf90jez/page83/page.png" media-type="image/png"/>
+<item id="img620" href="xhtml/pdf90jez/page84/page.png" media-type="image/png"/>
+<item id="img621" href="xhtml/pdf90jez/page85/page.png" media-type="image/png"/>
+<item id="img622" href="xhtml/pdf90jez/page86/page.png" media-type="image/png"/>
+<item id="img623" href="xhtml/pdf90jez/page87/page.png" media-type="image/png"/>
+<item id="img624" href="xhtml/pdf90jez/page88/page.png" media-type="image/png"/>
+<item id="img625" href="xhtml/pdf90jez/page89/page.png" media-type="image/png"/>
+<item id="img626" href="xhtml/pdf90jez/page9/page.png" media-type="image/png"/>
+<item id="img627" href="xhtml/pdf90jez/page90/page.png" media-type="image/png"/>
+<item id="img628" href="xhtml/pdf90jez/page91/page.png" media-type="image/png"/>
+<item id="img629" href="xhtml/pdf90jez/page92/page.png" media-type="image/png"/>
+<item id="img630" href="xhtml/pdf90jez/page93/page.png" media-type="image/png"/>
+<item id="img631" href="xhtml/pdf90jez/page94/page.png" media-type="image/png"/>
+<item id="img632" href="xhtml/pdf90jez/page95/page.png" media-type="image/png"/>
+<item id="img633" href="xhtml/pdf90jez/page96/page.png" media-type="image/png"/>
+<item id="img634" href="xhtml/pdff31uh/page1/page.png" media-type="image/png"/>
+<item id="img635" href="../_kmeta/imgUser/logo-header-majestic.png" media-type="image/png"/>
+<item id="aud0" href="audio/track01_.mp3" media-type="audio/mpeg"/>
+<item id="aud1" href="audio/track01_01.mp3" media-type="audio/mpeg"/>
+<item id="aud2" href="audio/track01_02.mp3" media-type="audio/mpeg"/>
+<item id="aud3" href="audio/track01_03.mp3" media-type="audio/mpeg"/>
+<item id="aud4" href="audio/track02_.mp3" media-type="audio/mpeg"/>
+<item id="aud5" href="audio/track02_01.mp3" media-type="audio/mpeg"/>
+<item id="aud6" href="audio/track02_02.mp3" media-type="audio/mpeg"/>
+<item id="aud7" href="audio/track02_03.mp3" media-type="audio/mpeg"/>
+<item id="aud8" href="audio/track02_04.mp3" media-type="audio/mpeg"/>
+<item id="aud9" href="audio/track02_05.mp3" media-type="audio/mpeg"/>
+<item id="aud10" href="audio/track03_.mp3" media-type="audio/mpeg"/>
+<item id="aud11" href="audio/track03_01.mp3" media-type="audio/mpeg"/>
+<item id="aud12" href="audio/track03_02.mp3" media-type="audio/mpeg"/>
+<item id="aud13" href="audio/track03_03.mp3" media-type="audio/mpeg"/>
+<item id="aud14" href="audio/track04_.mp3" media-type="audio/mpeg"/>
+<item id="aud15" href="audio/track04_01.mp3" media-type="audio/mpeg"/>
+<item id="aud16" href="audio/track04_02.mp3" media-type="audio/mpeg"/>
+<item id="aud17" href="audio/track04_03.mp3" media-type="audio/mpeg"/>
+<item id="aud18" href="audio/track05_.mp3" media-type="audio/mpeg"/>
+<item id="aud19" href="audio/track05_01.mp3" media-type="audio/mpeg"/>
+<item id="aud20" href="audio/track05_02.mp3" media-type="audio/mpeg"/>
+<item id="aud21" href="audio/track05_03.mp3" media-type="audio/mpeg"/>
+<item id="aud22" href="audio/track06_.mp3" media-type="audio/mpeg"/>
+<item id="aud23" href="audio/track06_01.mp3" media-type="audio/mpeg"/>
+<item id="aud24" href="audio/track06_02.mp3" media-type="audio/mpeg"/>
+<item id="aud25" href="audio/track06_03.mp3" media-type="audio/mpeg"/>
+<item id="aud26" href="audio/track07_.mp3" media-type="audio/mpeg"/>
+<item id="aud27" href="audio/track07_01.mp3" media-type="audio/mpeg"/>
+<item id="aud28" href="audio/track07_02.mp3" media-type="audio/mpeg"/>
+<item id="aud29" href="audio/track07_03.mp3" media-type="audio/mpeg"/>
+<item id="aud30" href="audio/track08_.mp3" media-type="audio/mpeg"/>
+<item id="aud31" href="audio/track08_01.mp3" media-type="audio/mpeg"/>
+<item id="aud32" href="audio/track08_02.mp3" media-type="audio/mpeg"/>
+<item id="aud33" href="audio/track08_03.mp3" media-type="audio/mpeg"/>
+<item id="aud34" href="audio/track09_.mp3" media-type="audio/mpeg"/>
+<item id="aud35" href="audio/track09_01.mp3" media-type="audio/mpeg"/>
+<item id="aud36" href="audio/track09_02.mp3" media-type="audio/mpeg"/>
+<item id="aud37" href="audio/track09_03.mp3" media-type="audio/mpeg"/>
+<item id="aud38" href="audio/track10_.mp3" media-type="audio/mpeg"/>
+<item id="aud39" href="audio/track10_01.mp3" media-type="audio/mpeg"/>
+<item id="aud40" href="audio/track10_02.mp3" media-type="audio/mpeg"/>
+<item id="aud41" href="audio/track10_03.mp3" media-type="audio/mpeg"/>
+<item id="aud42" href="audio/track11_.mp3" media-type="audio/mpeg"/>
+<item id="aud43" href="audio/track11_01.mp3" media-type="audio/mpeg"/>
+<item id="aud44" href="audio/track11_02.mp3" media-type="audio/mpeg"/>
+<item id="aud45" href="audio/track11_03.mp3" media-type="audio/mpeg"/>
+<item id="aud46" href="audio/track12_.mp3" media-type="audio/mpeg"/>
+<item id="aud47" href="audio/track12_01.mp3" media-type="audio/mpeg"/>
+<item id="aud48" href="audio/track12_02.mp3" media-type="audio/mpeg"/>
+<item id="aud49" href="audio/track13_.mp3" media-type="audio/mpeg"/>
+<item id="aud50" href="audio/track13_01.mp3" media-type="audio/mpeg"/>
+<item id="aud51" href="audio/track13_02.mp3" media-type="audio/mpeg"/>
+<item id="aud52" href="audio/track14_.mp3" media-type="audio/mpeg"/>
+<item id="aud53" href="audio/track14_01.mp3" media-type="audio/mpeg"/>
+<item id="aud54" href="audio/track14_02.mp3" media-type="audio/mpeg"/>
+<item id="aud55" href="audio/track14_03.mp3" media-type="audio/mpeg"/>
+<item id="aud56" href="audio/track15_.mp3" media-type="audio/mpeg"/>
+<item id="aud57" href="audio/track15_01.mp3" media-type="audio/mpeg"/>
+<item id="aud58" href="audio/track15_02.mp3" media-type="audio/mpeg"/>
+<item id="aud59" href="audio/track15_03.mp3" media-type="audio/mpeg"/>
+<item id="aud60" href="audio/track16_.mp3" media-type="audio/mpeg"/>
+<item id="aud61" href="audio/track16_01.mp3" media-type="audio/mpeg"/>
+<item id="aud62" href="audio/track16_02.mp3" media-type="audio/mpeg"/>
+<item id="aud63" href="audio/track65_.mp3" media-type="audio/mpeg"/>
+<item id="aud64" href="audio/track65_01.mp3" media-type="audio/mpeg"/>
+<item id="aud65" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/1.mp3" media-type="audio/mpeg"/>
+<item id="aud66" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/2.mp3" media-type="audio/mpeg"/>
+<item id="aud67" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/3.mp3" media-type="audio/mpeg"/>
+<item id="aud68" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/4.mp3" media-type="audio/mpeg"/>
+<item id="aud69" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/5.mp3" media-type="audio/mpeg"/>
+<item id="aud70" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/6.mp3" media-type="audio/mpeg"/>
+<item id="aud71" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/7.mp3" media-type="audio/mpeg"/>
+<item id="aud72" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/8.mp3" media-type="audio/mpeg"/>
+<item id="aud73" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/9.mp3" media-type="audio/mpeg"/>
+<item id="aud74" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/10.mp3" media-type="audio/mpeg"/>
+<item id="aud75" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/11.mp3" media-type="audio/mpeg"/>
+<item id="aud76" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/12.mp3" media-type="audio/mpeg"/>
+<item id="aud77" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/13.mp3" media-type="audio/mpeg"/>
+<item id="aud78" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/14.mp3" media-type="audio/mpeg"/>
+<item id="aud79" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/15.mp3" media-type="audio/mpeg"/>
+<item id="aud80" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/16.mp3" media-type="audio/mpeg"/>
+<item id="aud81" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/17.mp3" media-type="audio/mpeg"/>
+<item id="aud82" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/18.mp3" media-type="audio/mpeg"/>
+<item id="aud83" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/19.mp3" media-type="audio/mpeg"/>
+<item id="aud84" href="https://majesticeducationdigital.com/contenido-editable/take-up-5/Audios/20.mp3" media-type="audio/mpeg"/>
+<item id="css0" href="css/base.css" media-type="text/css"/>
+<item id="css1" href="css/global.css" media-type="text/css"/>
+<item id="css2" href="css/kotobeeInteractive.css" media-type="text/css"/>
+<item id="css3" href="css/style.css" media-type="text/css"/>
+<item id="js0" href="js/global.js" media-type="text/javascript"/>
+<item id="js1" href="js/kotobeeInteractive.js" media-type="text/javascript"/>
+<item id="js2" href="js/kotobeeInteractive3D.js" media-type="text/javascript"/>
+<item id="js3" href="js/lib/mathjax/core.js" media-type="text/javascript"/>
+<item id="js4" href="js/lib/mathjax/input/asciimath.js" media-type="text/javascript"/>
+<item id="js5" href="js/lib/mathjax/input/mml.js" media-type="text/javascript"/>
+<item id="js6" href="js/lib/mathjax/input/tex.js" media-type="text/javascript"/>
+<item id="js7" href="js/lib/mathjax/latest.js" media-type="text/javascript"/>
+<item id="js8" href="js/lib/mathjax/output/chtml/fonts/tex.js" media-type="text/javascript"/>
+<item id="js9" href="js/lib/mathjax/output/chtml.js" media-type="text/javascript"/>
+<item id="js10" href="js/lib/mathjax/startup.js" media-type="text/javascript"/>
+<item id="js11" href="js/lib/mathjax/ui/menu.js" media-type="text/javascript"/>
+<item id="js12" href="../_kmeta/config.js" media-type="text/javascript"/>
 
     </manifest>
     <spine toc="ncx">
         <itemref idref="html0" properties="rendition:layout-pre-paginated"/>
-<itemref idref="html1" properties="rendition:layout-reflowable"/>
-<itemref idref="html2" properties="rendition:layout-reflowable"/>
-<itemref idref="html3" properties="rendition:layout-reflowable"/>
-<itemref idref="html4" properties="rendition:layout-reflowable"/>
-<itemref idref="html5" properties="rendition:layout-reflowable"/>
-<itemref idref="html6" properties="rendition:layout-reflowable"/>
-<itemref idref="html7" properties="rendition:layout-reflowable"/>
-<itemref idref="html8" properties="rendition:layout-reflowable"/>
-<itemref idref="html9" properties="rendition:layout-reflowable"/>
-<itemref idref="html10" properties="rendition:layout-reflowable"/>
-<itemref idref="html11" properties="rendition:layout-reflowable"/>
-<itemref idref="html12" properties="rendition:layout-reflowable"/>
-<itemref idref="html13" properties="rendition:layout-reflowable"/>
-<itemref idref="html14" properties="rendition:layout-reflowable"/>
-<itemref idref="html15" properties="rendition:layout-reflowable"/>
-<itemref idref="html16" properties="rendition:layout-reflowable"/>
-<itemref idref="html17" properties="rendition:layout-reflowable"/>
-<itemref idref="html18" properties="rendition:layout-reflowable"/>
-<itemref idref="html19" properties="rendition:layout-reflowable"/>
-<itemref idref="html20" properties="rendition:layout-reflowable"/>
-<itemref idref="html21" properties="rendition:layout-reflowable"/>
-<itemref idref="html22" properties="rendition:layout-reflowable"/>
-<itemref idref="html23" properties="rendition:layout-reflowable"/>
-<itemref idref="html24" properties="rendition:layout-reflowable"/>
-<itemref idref="html25" properties="rendition:layout-reflowable"/>
-<itemref idref="html26" properties="rendition:layout-reflowable"/>
-<itemref idref="html27" properties="rendition:layout-reflowable"/>
-<itemref idref="html28" properties="rendition:layout-reflowable"/>
-<itemref idref="html29" properties="rendition:layout-reflowable"/>
-<itemref idref="html30" properties="rendition:layout-reflowable"/>
-<itemref idref="html31" properties="rendition:layout-reflowable"/>
-<itemref idref="html32" properties="rendition:layout-reflowable"/>
-<itemref idref="html33" properties="rendition:layout-reflowable"/>
-<itemref idref="html34" properties="rendition:layout-reflowable"/>
-<itemref idref="html35" properties="rendition:layout-reflowable"/>
-<itemref idref="html36" properties="rendition:layout-reflowable"/>
-<itemref idref="html37" properties="rendition:layout-reflowable"/>
-<itemref idref="html38" properties="rendition:layout-reflowable"/>
-<itemref idref="html39" properties="rendition:layout-reflowable"/>
-<itemref idref="html40" properties="rendition:layout-reflowable"/>
-<itemref idref="html41" properties="rendition:layout-reflowable"/>
-<itemref idref="html42" properties="rendition:layout-reflowable"/>
-<itemref idref="html43" properties="rendition:layout-reflowable"/>
-<itemref idref="html44" properties="rendition:layout-reflowable"/>
-<itemref idref="html45" properties="rendition:layout-reflowable"/>
-<itemref idref="html46" properties="rendition:layout-reflowable"/>
-<itemref idref="html47" properties="rendition:layout-reflowable"/>
-<itemref idref="html48" properties="rendition:layout-reflowable"/>
-<itemref idref="html49" properties="rendition:layout-reflowable"/>
-<itemref idref="html50" properties="rendition:layout-reflowable"/>
-<itemref idref="html51" properties="rendition:layout-reflowable"/>
-<itemref idref="html52" properties="rendition:layout-reflowable"/>
-<itemref idref="html53" properties="rendition:layout-reflowable"/>
-<itemref idref="html54" properties="rendition:layout-reflowable"/>
-<itemref idref="html55" properties="rendition:layout-reflowable"/>
-<itemref idref="html56" properties="rendition:layout-reflowable"/>
-<itemref idref="html57" properties="rendition:layout-reflowable"/>
-<itemref idref="html58" properties="rendition:layout-reflowable"/>
-<itemref idref="html59" properties="rendition:layout-reflowable"/>
-<itemref idref="html60" properties="rendition:layout-reflowable"/>
-<itemref idref="html61" properties="rendition:layout-reflowable"/>
-<itemref idref="html62" properties="rendition:layout-reflowable"/>
-<itemref idref="html63" properties="rendition:layout-reflowable"/>
-<itemref idref="html64" properties="rendition:layout-reflowable"/>
-<itemref idref="html65" properties="rendition:layout-reflowable"/>
-<itemref idref="html66" properties="rendition:layout-reflowable"/>
-<itemref idref="html67" properties="rendition:layout-reflowable"/>
-<itemref idref="html68" properties="rendition:layout-reflowable"/>
-<itemref idref="html69" properties="rendition:layout-reflowable"/>
-<itemref idref="html70" properties="rendition:layout-reflowable"/>
-<itemref idref="html71" properties="rendition:layout-reflowable"/>
-<itemref idref="html72" properties="rendition:layout-reflowable"/>
-<itemref idref="html73" properties="rendition:layout-reflowable"/>
-<itemref idref="html74" properties="rendition:layout-reflowable"/>
-<itemref idref="html75" properties="rendition:layout-reflowable"/>
-<itemref idref="html76" properties="rendition:layout-reflowable"/>
-<itemref idref="html77" properties="rendition:layout-reflowable"/>
-<itemref idref="html78" properties="rendition:layout-reflowable"/>
-<itemref idref="html79" properties="rendition:layout-reflowable"/>
-<itemref idref="html80" properties="rendition:layout-reflowable"/>
-<itemref idref="html81" properties="rendition:layout-reflowable"/>
-<itemref idref="html82" properties="rendition:layout-reflowable"/>
-<itemref idref="html83" properties="rendition:layout-reflowable"/>
-<itemref idref="html84" properties="rendition:layout-reflowable"/>
-<itemref idref="html85" properties="rendition:layout-reflowable"/>
-<itemref idref="html86" properties="rendition:layout-reflowable"/>
-<itemref idref="html87" properties="rendition:layout-reflowable"/>
-<itemref idref="html88" properties="rendition:layout-reflowable"/>
-<itemref idref="html89" properties="rendition:layout-reflowable"/>
-<itemref idref="html90" properties="rendition:layout-reflowable"/>
-<itemref idref="html91" properties="rendition:layout-reflowable"/>
-<itemref idref="html92" properties="rendition:layout-reflowable"/>
-<itemref idref="html93" properties="rendition:layout-reflowable"/>
-<itemref idref="html94" properties="rendition:layout-reflowable"/>
-<itemref idref="html95" properties="rendition:layout-reflowable"/>
-<itemref idref="html96" properties="rendition:layout-reflowable"/>
-<itemref idref="html97" properties="rendition:layout-reflowable"/>
-<itemref idref="html98" properties="rendition:layout-reflowable"/>
+<itemref idref="html1" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html2" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html3" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html4" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html5" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html6" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html7" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html8" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html9" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html10" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html11" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html12" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html13" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html14" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html15" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html16" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html17" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html18" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html19" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html20" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html21" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html22" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html23" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html24" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html25" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html26" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html27" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html28" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html29" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html30" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html31" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html32" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html33" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html34" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html35" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html36" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html37" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html38" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html39" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html40" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html41" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html42" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html43" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html44" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html45" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html46" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html47" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html48" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html49" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html50" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html51" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html52" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html53" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html54" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html55" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html56" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html57" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html58" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html59" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html60" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html61" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html62" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html63" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html64" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html65" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html66" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html67" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html68" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html69" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html70" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html71" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html72" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html73" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html74" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html75" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html76" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html77" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html78" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html79" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html80" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html81" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html82" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html83" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html84" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html85" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html86" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html87" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html88" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html89" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html90" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html91" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html92" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html93" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html94" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html95" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html96" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html97" properties="rendition:layout-pre-paginated"/>
+<itemref idref="html98" properties="rendition:layout-pre-paginated"/>
 
     </spine>
 
